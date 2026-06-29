@@ -1,4 +1,3 @@
-# cl12_kadai
 # 左右反転画像 生成プログラムflip.py
 
 ## 1\. 概要
@@ -7,7 +6,8 @@
 
 ## 2\. ソースコード
 
-``` # このプログラムは python3用です。
+``` 
+# このプログラムは python3用です。
 # あらかじめ pip install pillow で pillow をインストールしておきます。
 form PIL import Image
 import sys
@@ -46,6 +46,7 @@ img\_flip.save(output\_image)
 | --- | --- |
 | ![入力画像](input.jpg) | ![出力画像](output.jpg) |
 
+以上
 
 
 
